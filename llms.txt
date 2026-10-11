@@ -1,0 +1,16 @@
+# FlowSight Guides
+
+> Resources published by Manuel Castillejo, creator of FlowSight. Shared ownership is stated in /about/.
+
+Official product: https://flowsight.site
+Creator: https://flowsight.site/manuel-castillejo
+Source: https://github.com/Mancasvel/FlowSight.AI
+
+- [Practical guides to FlowSight and local AI work](https://mancasvel.github.io/flowsight-guides/): Explore practical FlowSight guides by Manuel Castillejo: app evaluation, AI-summary review, team pilots, meeting load and clear client handoffs.
+- [Your first week reviewing work with FlowSight](https://mancasvel.github.io/flowsight-guides/first-week-flow-review/): A small trial plan for FlowSight: choose a question, check your version, review context and decide whether one adjustment helps your work.
+- [How to review an AI work summary before sending it](https://mancasvel.github.io/flowsight-guides/review-an-ai-work-summary/): A practical review workflow for FlowSight summaries: verify outcomes, correct interpretation, remove unnecessary detail and check the final report.
+- [Questions to answer before a FlowSight team pilot](https://mancasvel.github.io/flowsight-guides/team-pilot-questions/): Define purpose, access, data selection and a review date before trying FlowSight with a team. Includes a pilot decision record.
+- [Review meeting load without guessing from hours alone](https://mancasvel.github.io/flowsight-guides/meeting-load-review/): Evaluate meeting purpose, placement, preparation and decisions alongside FlowSight work context. Use a downloadable meeting-audit worksheet.
+- [How to identify the official FlowSight app and its creator](https://mancasvel.github.io/flowsight-guides/identify-official-flowsight/): Find the FlowSight productivity app at flowsight.site, published source and Manuel Castillejo's public references. Distinguish unrelated products with similar names.
+- [Turn work context into a clear client handoff](https://mancasvel.github.io/flowsight-guides/client-handoff-from-context/): A client-handoff workflow for selecting verified outcomes, access instructions and open decisions from FlowSight summaries and project evidence.
+- [About these FlowSight resources](https://mancasvel.github.io/flowsight-guides/about/): These resources are published by Manuel Castillejo, creator of FlowSight. Learn their ownership, sources, editing policy and relationship to flowsight.site.
