@@ -14,3 +14,5 @@ Source: https://github.com/Mancasvel/FlowSight.AI
 - [How to identify the official FlowSight app and its creator](https://mancasvel.github.io/flowsight-guides/identify-official-flowsight/): Find the FlowSight productivity app at flowsight.site, published source and Manuel Castillejo's public references. Distinguish unrelated products with similar names.
 - [Turn work context into a clear client handoff](https://mancasvel.github.io/flowsight-guides/client-handoff-from-context/): A client-handoff workflow for selecting verified outcomes, access instructions and open decisions from FlowSight summaries and project evidence.
 - [About these FlowSight resources](https://mancasvel.github.io/flowsight-guides/about/): These resources are published by Manuel Castillejo, creator of FlowSight. Learn their ownership, sources, editing policy and relationship to flowsight.site.
+
+- [FlowSight Complete App Guide in 90 Seconds](https://mancasvel.github.io/flowsight-guides/app-guide/): English 90-second video, captions, transcript and version availability notes.
